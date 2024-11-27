@@ -16,6 +16,7 @@ marp: true
 # Što je ad-blocker
 Softverski alat ili dodatak za web browser (extensions) koji blokira prikazivanje oglasa na web stranicama
 Glavna namejna je smanjenje smetnji tijekom pretraživanja stranica i ubrzavanje učitavanje stranica
+<img src="ad-blocker-fbi.png" width="500" height="500"/>
 
 ---
 # Što je ad-blocker
@@ -53,6 +54,8 @@ Adblockeri su vrlo važan alat u današnje vrijeme kako bismo:
 - **Privatnost** - Ablockeri blokiraju skripte za praćenje i widgete poput "Like" ili "Share" gumbi
 - **Okruženje bez ometanja** - Na radnom mjestu, adblocker eliminira oglase koji bi mogli odvući pažnju
 - **Ušteda mobilnih podataka** - korištenjem adblockera na mobitelu smanjuje se količina preuzetih podataka jer se oglasi ne učitavaju
+<img src="ad-blocker-usage-and-demographic-statistics.png" width="500" height="500"/>
+
 ---
 # Kako instalirati alat
 - Kako bismo instalirali adblocker na svojem web browseru možemo ići na službenu trgovinu ekstenzija preglednika (FIrefox Add-ons, Chrome Web Store. Edge Add-ons)
@@ -69,6 +72,8 @@ Neki od najpoznatijih i najuglednijih adblockera su:
 - AdGuard
 - Privacy Badger
 - Brave browser
+<img src="xkhvsyi5ezbb1.jpg" width="500" height="500"/>
+
 ---
 # Referenca
 https://www.privacytools.io/privacy-browser-addons
